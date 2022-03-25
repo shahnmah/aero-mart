@@ -1,26 +1,74 @@
 [
   {
-    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "name": "ULTRABOOST 22 SHOES",
-    "price": 420,
-    "stock": 20,
-    "ratings": 4,
-    "ratingsCount": 3725,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-    "shipping": 1,
-    "quantity": 0
+    "id": "01",
+    "name": "Biman Bangladesh Airlines",
+    "price": 4500,
+    "model": "787-9 DreamLiner",
+    "scale ": "1:1200",
+    "img": "https://images.unsplash.com/photo-1601736077140-a20b86ad266a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1565&q=80"
   },
   {
-    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "category": "Men's Sneaker",
-    "name": "ULTRABOOST 22 SHOES",
-    "seller": "Addidas",
-    "price": 420,
-    "stock": 20,
-    "ratings": 4,
-    "ratingsCount": 3725,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-    "shipping": 1,
-    "quantity": 0
+    "id": "02",
+    "name": "Biman Bangladesh Airlines",
+    "price": 2500,
+    "model": "737",
+    "scale ": "1:1200",
+    "img": "https://images.unsplash.com/photo-1601736077140-a20b86ad266a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1565&q=80"
+  },
+  {
+    "id": "03",
+    "name": "Biman Bangladesh Airlines",
+    "price": 3500,
+    "model": "777",
+    "scale ": "1:1200",
+    "img": "https://images.unsplash.com/photo-1601736077140-a20b86ad266a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1565&q=80"
+  },
+  {
+    "id": "04",
+    "name": "US Bangla Airlines",
+    "price": 3000,
+    "model": "737",
+    "scale ": "1:1200",
+    "img": "https://images.unsplash.com/photo-1601736077140-a20b86ad266a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1565&q=80"
+  },
+  {
+    "id": "05",
+    "name": "US Bangla Airlines",
+    "price": 2500,
+    "model": "ATR-72",
+    "scale ": "1:1200",
+    "img": "https://images.unsplash.com/photo-1601736077140-a20b86ad266a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1565&q=80"
+  },
+  {
+    "id": "06",
+    "name": "Novo Air",
+    "price": 2000,
+    "model": "ATR-72",
+    "scale ": "1:1200",
+    "img": "https://images.unsplash.com/photo-1601736077140-a20b86ad266a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1565&q=80"
+  },
+  {
+    "id": "07",
+    "name": "Regent Airways",
+    "price": 2500,
+    "model": "737",
+    "scale ": "1:1200",
+    "img": "https://images.unsplash.com/photo-1601736077140-a20b86ad266a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1565&q=80"
+  },
+  {
+    "id": "08",
+    "name": "Biman Bangladesh Airlines",
+    "price": 1500,
+    "model": "Bombardier Dash 8 - Q400",
+    "scale ": "1:1200",
+    "img": "https://images.unsplash.com/photo-1601736077140-a20b86ad266a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1565&q=80"
+  },
+  {
+    "id": "09",
+    "name": "Air Astra",
+    "price": 1500,
+    "model": "ATR-72",
+    "scale ": "1:1200",
+    "img": "https://images.unsplash.com/photo-1601736077140-a20b86ad266a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1565&q=80"
   }
 ]

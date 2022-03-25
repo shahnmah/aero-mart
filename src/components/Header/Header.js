@@ -8,9 +8,9 @@ import { faPlaneUp} from '@fortawesome/free-solid-svg-icons'
 const Header = () => {
     return (
         <div>
-            <header className='header p-4 text-center text-white'>
+            <header className='header p-2 text-center text-white'>
                 <h1 className=''>Aero Mart</h1>
-                <p>Time for grab some AirCraft <span className='ps-1 text-info'><FontAwesomeIcon icon={faPlaneUp}/></span></p>
+                <p>Time for grab some AirCrafts <span className='ps-1 text-info'><FontAwesomeIcon icon={faPlaneUp}/></span></p>
             </header>
         </div>
     );

@@ -2,8 +2,6 @@ import React from 'react';
 import './Header.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPlaneUp} from '@fortawesome/free-solid-svg-icons'
-{/* <i class="fa-solid fa-plane"></i> */}
-
 
 const Header = () => {
     return (

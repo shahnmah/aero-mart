@@ -15,8 +15,11 @@ const Questions = () => {
                         পদ্ধতিতেই রিয়েক্ট কাজ করে। 
                     </p>
                 </div>
-                <div>
-                    <strong>Props</strong>
+            </div>
+            <div className="question2">
+            <div>
+                <h4>2. Props Vs State</h4>
+                <strong>Props</strong>
                     <ul>
                         <li>প্রোপস(Props) হলো ইমিউটেবল মানে অপরিবর্তনীয়।</li>
                         <li>প্রোপস(Props) চাইল্ড কোম্পনেন্ট মাধ্যমে ব্যাবহার করা যায়।</li>

@@ -2,3 +2,7 @@
     background-color: #0E2A47;
     height: 100%;
 }
+.cart-inner{
+    position: sticky;
+    top: 0;
+}
